@@ -25,15 +25,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-8MFAq+DmdHO5ZVGg1dOr9lvy8FQSlpBzb5O7Z4seqS8=",
+      "hash": "sha256-AN7IhNIM4SJBCx9DdTPBr2rTzjKdZjS0q69mdGg09KA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-Nq2VNslW2k8mBNgx5EQ7rZxx2K0QGCVq170ry39KPlA=",
+      "hash": "sha256-hyOvmggsnnEMDSUvAVxLjpt+Nai3cOhr\/S4N0pDAeaw=",
       "url": "_framework\/BlazorWasmPwa.dll"
     },
     {
-      "hash": "sha256-ArIsY3757qWf4U40toP8gqEw4uK1YzpiZv1MvZ0eYew=",
+      "hash": "sha256-FKGizmt5InlUWJwMsATdP+FVCxnRxS2yhXR8+CppsaM=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -117,7 +117,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-ebphOL\/4EjU8sDafBM9OU7keD09IKS\/HFUXA9JsVB5M=",
+      "hash": "sha256-cB\/RnAIr38Ro\/oH4YaMWXr9RCr3GOtcgQd1KZ83DgNg=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -133,8 +133,16 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-mk2LNBjqzRMY\/6wQO6ng3MOIRSrzCcwRDhogl0gHQbA=",
+      "hash": "sha256-BOTp1V0EySVyPjnRVt5dv3BmHr0o9\/TKMkkaQyB0ecQ=",
       "url": "_framework\/System.Runtime.dll"
+    },
+    {
+      "hash": "sha256-yjgw0Ove9jAKj2SDbiIcCmWhh3xkdoasFXnBV9Z8GJw=",
+      "url": "_framework\/System.Security.Cryptography.Algorithms.dll"
+    },
+    {
+      "hash": "sha256-3WLTlreXMpkMa0m7JwixMYLSM6V3R7gb5GbHlI+QWVk=",
+      "url": "_framework\/System.Security.Cryptography.Primitives.dll"
     },
     {
       "hash": "sha256-gUV2fOrOUGrNK6Oj1AxlN44sKTuN4hYA1DxX8xuRU2c=",
@@ -149,7 +157,7 @@
       "url": "_framework\/dotnet.6.0.1.7ptz2o4spy.js"
     },
     {
-      "hash": "sha256-X4hBKvhFrjzpn4jI0myV+fOR9rqtmvA4rA0cI6ZhFn0=",
+      "hash": "sha256-4HNrW2Lo7oUFx5iIRYvZ70JcxgTIVsjKSrEA\/9VGkeA=",
       "url": "_framework\/dotnet.wasm"
     },
     {
@@ -229,5 +237,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "hieDkoIz"
+  "version": "PvRmcAEV"
 };
